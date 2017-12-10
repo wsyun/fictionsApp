@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "雪人",
+    "icon": "./xueren.png",
+    "sdkVersion": "23.0.0",
+    "slug": "wsyun",
+    "android": {
+      "package": "wsyun.snow.fictions"
+    },
+    "ios": {
+      "bundleIdentifier": "wsyun.snow.fictions"
+    }
+  }
+}
